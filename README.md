@@ -1,1 +1,1 @@
-# TDAT1005-Databases-and-Advanced-programming
+# Databases and advanced programming

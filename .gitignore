@@ -1,0 +1,9 @@
+# Folders
+*bin/
+*.vscode/
+
+# Filetypes
+*.class
+
+# Specific files
+*.DS_Store
